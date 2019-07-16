@@ -13,6 +13,7 @@ Page({
 
   doPost(){
     console.log("----------")
+    console.log("----------")
     
     // 2.使用封装的request发送网络请求
     // Promise最大的好处就是防止出现回调地狱
