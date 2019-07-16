@@ -1,0 +1,9 @@
+<!--page/home/home.wxml-->
+<text class='hh'>hello word</text>
+<button size='mini'>1515</button>
+
+<pp></pp>
+<bottom-bar 
+bind:itemclick="handleTabClick"/>
+
+<button size='mini' bind:tap='doPost' >点击发送请求</button>
